@@ -46,7 +46,7 @@ let strInBoolean = Boolean(str);
 // console.log(booleanIsLoggedIn); // output: true(input: 1)
 // console.log(booleanIsLoggedIn); //output: true (input: 23)
 // console.log(booleanIsLoggedIn); // output: false (input: null)
-console.log(booleanIsLoggedIn); // output: false (input: undefined)
+// console.log(booleanIsLoggedIn); // output: false (input: undefined)
 // console.log(strInBoolean); // output: false(input: "")
 // console.log(strInBoolean); // output: true(input: "nusrat")
 
@@ -58,3 +58,16 @@ console.log(booleanIsLoggedIn); // output: false (input: undefined)
  * 4. undefined to boolean: undefined => false
  * 
  */
+
+/***************** Operations ******************** */
+
+let value = 3;
+let negValue = -value;
+// console.log(negValue); // -3
+
+//console.log(2+2); // 4
+//console.log(2-2); // 0
+//console.log(2*2); // 4
+//console.log(2**3); // 8
+//console.log(2/3); // 0.67
+//console.log(2%3); // 2
