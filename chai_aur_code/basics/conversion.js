@@ -71,3 +71,22 @@ let negValue = -value;
 //console.log(2**3); // 8
 //console.log(2/3); // 0.67
 //console.log(2%3); // 2
+
+let str1 = "Nusrat ";
+let str2 = "Tanha";
+let str3 = str1 + str2; // Nusrat Tanha
+
+// console.log("1" + 2); //12
+// console.log(1 + "2"); //12
+// console.log("1" + 2 + 2); //122
+// console.log(1 + 2 + "2"); //32
+// console.log( 3+ 4 * 5 % 3) //5
+
+//todo: associativity and Operator Precedence
+
+let num1,  num2, num3;
+num1 = num2 = num3 = 4; // not recommended because of readability.
+// console.log(num1, num2, num3);
+
+// link to study
+// https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion 
