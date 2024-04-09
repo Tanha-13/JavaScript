@@ -18,8 +18,12 @@ const gameName = new String('Survivor');
 console.log(gameName.charAt(4)); //i
 //console.log(gameName.indexOf('S')); //0
 //console.log(gameName.indexOf('e')); //-1. that means the char is not included in gameName.
+
+// substring does not accept negative values. If negative values are provided, it will ignore it and starts from 0 index.
 const newString = gameName.substring(0,4);
 //console.log(newString); //Surv
+
+//negative values are allowed in slice method
 const anotherString = gameName.slice(-8,4);
 //console.log(anotherString); //
 
