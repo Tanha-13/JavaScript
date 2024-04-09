@@ -28,3 +28,13 @@ myNumber = 500;
 //constant variables - declaring + initializing and can not be redeclared and reassigned
 
 //imp: use const when you can, use let when you have to. This means that if you can initialize a variable when you declare it, and don't need to reassign it later, make it a constant.
+
+//links
+/*
+01. First step: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables 
+02. const declaration: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
+03. let declaration: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
+04. var declaration: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var
+
+05. grammar and types: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types
+*/ 
