@@ -31,17 +31,19 @@
 4. **Immutable vs Mutable Data Types**
 5. **NaN**
 
-## Operators
-1. **Arithmetic Operators**
-2. **Assignment Operators**
-3. **Comparison Operators**
-4. **Logical Operators**
-5. **Bitwise Operators**
-6. **Remainder Operators**
-7. **Unary Operators**
-8. **Ternary Operators**
-9. **Comma Operators**
-10. **String Operators**
-11. **BigInt Operators**
-12. **Nullish coalescing Operators**
-13. **Exponentiation Operators**
+|**Operators**|**Loops and Iterations**|**Control Flow**|
+| --- | --- | --- |
+| 1. **Arithmetic Operators**  | 1. for statement | 1. if...else |
+| 2. **Assignment Operators** | 2. do..while statement | 2. switch |
+| 3. **Comparison Operators**  | 3. while statement | 3. exception handling|
+| 4. **Logical Operators**  | 4. for..in statement |4. throw statement|
+| 5. **Bitwise Operators**  | 5. for..of statement |5. try..catch..finally|
+| 6. **Remainder Operators**  | 6. break, continue |6.Error objects|
+| 7. **Unary Operators**  |  ||
+| 8. **Ternary Operators**  |  ||
+| 9. **Comma Operators**  |  ||
+| 10. **String Operators**  |  ||
+| 11. **BigInt Operators** |  ||
+| 12. **Nullish coalescing Operators**  |  ||
+|13. **Exponentiation Operators**  |  ||
+|14. === vs ==  |  ||
