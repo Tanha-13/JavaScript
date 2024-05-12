@@ -1,6 +1,7 @@
 # JavaScript
 ## Fundamentals
 ### Variables
+***
 1. **Variable Declarations**
 2. **Variable Initialization**
 3. **Type Conversion**
@@ -11,6 +12,7 @@
 8. **Global Variables**
 9. **Variable Best Practices**
 ### Data Types
+***
 1. **Data Types**
     1. ***Primitive***
         1. *string*
@@ -28,3 +30,18 @@
 3. **Checking Data Types**
 4. **Immutable vs Mutable Data Types**
 5. **NaN**
+
+## Operators
+1. **Arithmetic Operators**
+2. **Assignment Operators**
+3. **Comparison Operators**
+4. **Logical Operators**
+5. **Bitwise Operators**
+6. **Remainder Operators**
+7. **Unary Operators**
+8. **Ternary Operators**
+9. **Comma Operators**
+10. **String Operators**
+11. **BigInt Operators**
+12. **Nullish coalescing Operators**
+13. **Exponentiation Operators**
