@@ -31,6 +31,8 @@
 4. **Immutable vs Mutable Data Types**
 5. **NaN**
 
+
+
 |**Operators**|**Loops and Iterations**|**Control Flow**|
 | --- | --- | --- |
 | 1. **Arithmetic Operators**  | 1. for statement | 1. if...else |
@@ -47,3 +49,12 @@
 | 12. **Nullish coalescing Operators**  |  ||
 |13. **Exponentiation Operators**  |  ||
 |14. === vs ==  |  ||
+
+
+
+
+<style>
+    table {
+        width: 100%;
+    }
+</style>
