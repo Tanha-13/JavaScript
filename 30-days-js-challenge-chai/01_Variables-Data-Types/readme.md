@@ -11,3 +11,17 @@
 
 ## Activity 4: Reassigning Variables
 - **Task 5:** Declare a variable using `let`, assign it an initial value, reassign a new value, and log both values to the console.
+
+## Activity 5: Understanding `const`
+- **Task 6:** Try reassigning a variable declared with `const` and observe the error.
+
+## Feature Request: 
+1. **Variable Types Console Log:** Write a script that declares variables of different data types and logs both the value and type of each variable to the console.
+2. **Reassignment Demo:** Create a script that demonstrates the difference in behavior between  `let` and `const` when it comes to reassignment.
+
+## Achievement
+By the end of these activities, you will:
+- Know how to declare variables using `var`,`let`, and `const`.
+- Understand the different data types in JavaScript.
+- Be able to use the `typeof` operator to identify the data type of a variable.
+- Understand the concept of variable reassignment and the immutability of `const` variables.

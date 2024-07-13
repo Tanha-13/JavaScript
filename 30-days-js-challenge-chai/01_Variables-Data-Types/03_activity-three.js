@@ -8,7 +8,7 @@ const obj = {
     courseDuration: 30,
 }
 const arr = [3,23,53,63];
-console.log(typeof numberValue); //number
+console.log(`The value is ${numberValue} and Type is ${typeof numberValue}`); //number
 console.log(typeof strValue); // string
 console.log(typeof logicValue); // boolean
 console.log(typeof obj); // object
