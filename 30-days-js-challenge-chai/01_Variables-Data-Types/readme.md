@@ -8,3 +8,6 @@
 
 ## Activity 3: Data Types
 - **Task 4:** Create variables of different data types (number, string, boolean, object, array) and log each variable's type using the `typeof` operator.
+
+## Activity 4: Reassigning Variables
+- **Task 5:** Declare a variable using `let`, assign it an initial value, reassign a new value, and log both values to the console.
