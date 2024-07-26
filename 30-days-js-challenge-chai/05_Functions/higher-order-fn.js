@@ -22,7 +22,19 @@ console.log(output);
 // problem: Write a higher-order function that takes two functions and a value, applies the first function to the value, and then applies the second function to the result.
 
 const showFunction = (function1, function2, value) => {
-    value = function1();
-    
+    const tempValue = function1(value);
+    return function2(tempValue);
+
 }
+
+function double(num){
+    return num * 2;
+}
+
+function add(num){
+    return num + 5;
+}
+
+const result = showFunction(double,add, 5);
+console.log(result);
 
