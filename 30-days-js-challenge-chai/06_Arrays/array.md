@@ -12,7 +12,7 @@
 ### Activity 3: Array Methods(Intermediate)
 - **Task 7:** Use the `map` method to create a new array where each number is doubled and log the new array.
 - **Task 8:** Use the `filter` method to create a new array with only even numbers and log the new array.
-- **Task 9:** Use the `filter` method to calculate the sum of all numbers in the array and log the result.
+- **Task 9:** Use the `reduce` method to calculate the sum of all numbers in the array and log the result.
 
 ### Activity 4: Array Iteration
 - **Task 10:** Use a `for` loop to iterate over the array and log each element to the console.
